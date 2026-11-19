@@ -221,3 +221,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Big Files & virtual environment
+.venv/
+data/raw/
